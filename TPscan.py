@@ -26,7 +26,7 @@ print('''
   | | |  __/ __|/ __/ _` | '_ \ 
   | | | |  \__ \ (_| (_| | | | |
   \_/ \_|  |___/\___\__,_|_| |_|          
-                code by Lucifer
+                code by Serendipity-Lucky
 ''')
 targeturl = input("[*]Give me a target: ")
 if targeturl.find('http') == -1:
